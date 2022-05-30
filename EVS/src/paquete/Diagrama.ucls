@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="paquete.Comisionado" project="Pruebas Con Ventanas" 
+    file="/Pruebas Con Ventanas/src/paquete/Comisionado.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="633" width="255" x="790" y="307"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="paquete.Gobernacion" project="Pruebas Con Ventanas" 
+    file="/Pruebas Con Ventanas/src/paquete/Gobernacion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="655" width="236" x="530" y="302"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="paquete.Login" project="Pruebas Con Ventanas" 
+    file="/Pruebas Con Ventanas/src/paquete/Login.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="347" width="232" x="30" y="441"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="paquete.Principal" project="Pruebas Con Ventanas" 
+    file="/Pruebas Con Ventanas/src/paquete/Principal.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="164" width="194" x="727" y="87"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="paquete.Plebiscito" project="Pruebas Con Ventanas" 
+    file="/Pruebas Con Ventanas/src/paquete/Plebiscito.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="442" width="247" x="1060" y="402"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="paquete.MenuPrincipal" project="Pruebas Con Ventanas" 
+    file="/Pruebas Con Ventanas/src/paquete/MenuPrincipal.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="370" width="241" x="276" y="430"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="paquete.ResultadosUser" project="Pruebas Con Ventanas" 
+    file="/Pruebas Con Ventanas/src/paquete/ResultadosUser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="390" width="254" x="1323" y="418"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
