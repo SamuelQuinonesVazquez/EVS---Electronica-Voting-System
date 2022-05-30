@@ -1,1 +1,1 @@
-# EVS---Electronica-Voting-System
+# EVS-Electronica-Voting-System
